@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">Interested in AI/ML, Web Development, and Data Analysis</h3>
-<img align=”right” alt=”Coding” width=”400” src=”https://gifer.com/embed/WwUV”>
+<img align=”right” alt=”Coding” width=”400” src=”https://gifer.com/en/WwUV”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpow18&label=Profile%20views&color=0e75b6&style=flat" alt="jpow18" /> </p>
 
