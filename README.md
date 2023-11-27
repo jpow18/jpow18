@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C++, Python, React**
 
-- 📫 How to reach me **jbpow18@icloud.com**
+- 📫 Reach me at **james.pow18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
