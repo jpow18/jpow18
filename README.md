@@ -4,13 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpow18&label=Profile%20views&color=0e75b6&style=flat" alt="jpow18" /> </p>
 
-- 🔭 I’m currently working on [TickTerminator](https://github.com/jpow18/TickTerminator)
-
-- 🌱 I’m currently learning **TensorFlow, Pandas, Numpy**
-
-- 💬 Ask me about **C++, Python, React**
-
-- 📫 Reach me at **james.pow18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
