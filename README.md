@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">Interested in Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpow18&label=Profile%20views&color=0e75b6&style=flat" alt="jpow18" /> </p>
