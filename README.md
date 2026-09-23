@@ -13,6 +13,6 @@ I focus on software that solves a clear operational problem and remains understa
 
 ## Core technologies
 
-TypeScript, JavaScript, Node.js, Next.js, React, PostgreSQL, Supabase, and API integrations.
+Ruby on Rails, SQLite, PHP, MySQL, JavaScript, Node.js, API integrations, and AI-assisted development.
 
 [LinkedIn](https://www.linkedin.com/in/james-pow-50630312b/)
