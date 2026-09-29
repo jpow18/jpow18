@@ -8,7 +8,7 @@ I focus on software that solves a clear operational problem and remains understa
 
 ## Selected work
 
-- [TickWarden](https://tickwarden.com) — private, AI-assisted tick photo identification with no account or subscription.
+- [TickWarden](https://tickwarden.com) — Open-source pest finder for aerial and close-up photos. It gives GPS-mapped findings, HTML, CSV and GeoJSON reports, and a path to train your own model.
 - [HomeSeek](https://github.com/jpow18/home_search) — a self-hosted property search agent that gathers listings, evaluates them against saved criteria, removes duplicates, and sends alerts for strong new matches.
 - [pdf.js.viewer](https://github.com/jpow18/pdf.js.viewer) — a JavaScript wrapper around PDF.js for rendering PDFs and working with interactive form fields in web applications.
 - [IndexScout](https://github.com/jpow18/indexscout) — a read-only MCP server for evidence-backed Google Search Console analysis.
